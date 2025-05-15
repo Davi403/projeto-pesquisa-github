@@ -18,6 +18,7 @@ Autor: [AnnaLaura08]
 [O sistema de arquivos é a estrutura que permite o gerenciamento de arquivos e realiza tarefas como: criação, exclusão, leitura, gravação, controle de acesso, proteção e organização dos dados.Um gerenciador de arquivos é uma ferramenta essencial para a administração de arquivos e diretórios em sistemas operacionais. Ele permite a navegação, organização, cópia, exclusão e movimentação de arquivos de maneira intuitiva e eficiente.]
 
 ![images](URL_da_imagem)
+
 [https://vaniabrito.blogs.sapo.pt/3488.html](https://exemplo.com)
 
 
@@ -39,6 +40,7 @@ Autor: [Seu nome completo]
 [Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
 
 [https://br.easeus.com/diskmanager/sistema-de-arquivo.html](https://exemplo.com)
+
 ![file-system-work-flow](URL_da_imagem)
 
 
@@ -60,6 +62,7 @@ Autor: [AnnaLaura08]
 [Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
 
 [https://materialpublic.imd.ufrn.br/curso/disciplina/3/16/2/7](https://exemplo.com)
+
 ![download (2)](URL_da_imagem)
 
 
@@ -81,6 +84,7 @@ Autor: [Seu nome completo]
 [Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
 
 [https://ajuda.fastcommerce.com.br/como-configurar-o-painel-de-controle-do-windows-para-trabalhar-com-arquivos-csv](https://exemplo.com)
+
 ![download](URL_da_imagem)
 
 
