@@ -1,10 +1,12 @@
-# projeto-pesquisa-github
+# Pesquisa Colaborativa - Github
 
 Grupo: [CyberDev]
 
 ## 1. Funções de um Sistema Operacional
+---
 
-Autor: [Davi403]
+Autor: [Seu nome completo]
+
 [Escreva a introdução]
 
 ### 1.1. Gerenciamento de processos
@@ -75,18 +77,21 @@ Autor: [Seu nome completo]
 ## 5. Ferramentas do Sistema
 ---
 
-Autor: [Seu nome completo]
+Autor: Davi403
 
-[Escreva a introdução]
+[Explicando ferramentas do sistema]
 
 ### 5.1. Gerenciador de Tarefas
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+O Gerenciador de Tarefas (no Windows) e o Monitor do Sistema (no Linux/macOS) são ferramentas essenciais para monitorar e gerenciar os processos que estão a ser executados num sistema operacional. Em resumo, ajudam a entender como o computador está a ser utilizado, identificar possíveis problemas e até mesmo forçar o encerramento de processos que estão a consumir muitos recursos.
 
 ### 5.2. Prompt de Comando / Terminal
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+O "Prompt de Comando" (Windows) e o "Terminal" (Unix/Linux/macOS) são interfaces de linha de comando que permitem aos usuários interagir com o sistema operacional através de comandos de texto. Eles oferecem um acesso direto e poderoso às funcionalidades do sistema, ideal para tarefas administrativas, automatização e resolução de problemas.
 
 
+[nome do site](https://linuxavante.com/gotop-monitor-grafico-de-sistema-para-linha-de-comando)
+
+![nome da imagem](https://linuxavante.com/user/pages/01.home/gotop-monitor-grafico-de-sistema-para-linha-de-comando/gotop.webp)
