@@ -38,13 +38,16 @@ Autor: [Seu nome completo]
 
 [Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
 
+[https://br.easeus.com/diskmanager/sistema-de-arquivo.html](https://exemplo.com)
+![file-system-work-flow](URL_da_imagem)
+
 
 ## 3. Gerenciamento de Dispositivos
 ---
 
-Autor: [Seu nome completo]
+Autor: [AnnaLaura08]
 
-[Escreva a introdução]
+[O conjunto de ferramentas para gerir dispositivos, incluindo a capacidade de implementar e atualizar software, configurar definições, impor políticas e monitorizar com dados e relatórios. A capacidade de administrar e gerir dispositivos virtuais e físicos, independentemente da respetiva localização física.O Gerenciador de dispositivos exibe uma exibição gráfica do hardware instalado no computador. Use essa ferramenta quando quiser exibir e gerenciar dispositivos de hardware e seus drivers.]
 
 ### 3.1. Como o SO se comunica com impressoras, HDs, mouses etc.
 ---
@@ -55,6 +58,9 @@ Autor: [Seu nome completo]
 ---
 
 [Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+
+[https://materialpublic.imd.ufrn.br/curso/disciplina/3/16/2/7](https://exemplo.com)
+![download (2)](URL_da_imagem)
 
 
 ## 4. Painel de Controle e Configurações
@@ -73,6 +79,9 @@ Autor: [Seu nome completo]
 ---
 
 [Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+
+[https://ajuda.fastcommerce.com.br/como-configurar-o-painel-de-controle-do-windows-para-trabalhar-com-arquivos-csv](https://exemplo.com)
+![download](URL_da_imagem)
 
 
 ## 5. Ferramentas do Sistema
